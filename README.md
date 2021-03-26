@@ -2,7 +2,7 @@
 
 ## Overview of the project
 The goal of the project is to retrieve weather data from OpenWeatherMap API and build a heatmap on Google map showing max temperature.
-User can define the range of desired max temperature for the next vacation. Based on their choice heatmap and tags with offered hotels is built. Also, there is a possibility to build a route on map for round trip through 4 cities.
+User can define the range of desired max temperature for the next vacation. Based on their choice heatmap and tags with offered hotels are built. Also, there is a possibility to build a route on map for round trip through 4 cities.
 
 To complete the project, I used python with pandas, numpy, gmaps, requests libraries.
 
